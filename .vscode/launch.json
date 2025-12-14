@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Launch Nest Application",
+        "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/nest",
+        "runtimeArgs": ["start"],
+        "restart": true,
+        "console": "integratedTerminal",
+        "internalConsoleOptions": "neverOpen"
+      }
+    ]
+  }

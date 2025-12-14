@@ -1,0 +1,18 @@
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.git
+.gitignore
+*.md
+.vscode
+.idea
+coverage
+.DS_Store
+# Removing these lines to allow .env.local to be copied
+# *.env
+# *.env.*
+# .env.local
+# .env.*.local
+# *.env.local
+# *.env.*.local 
