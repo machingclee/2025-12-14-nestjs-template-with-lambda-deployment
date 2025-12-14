@@ -15,7 +15,7 @@ then add a controller:
 nest generate controller export-template modules/file-generation/controllers --flat --dry-run
 ```
 
-then add an appService service:
+then add a service:
 
 ```bash
 # nest generate controller <service-name> <module>/services --flat --dry-run
